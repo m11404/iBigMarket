@@ -15,7 +15,9 @@ msgbox(" Manage Items ! ",
            "Back");
 ```
 
-Would produce result as ![Manage Item](/screenshots/Picture3.png)
+Would produce result as
+
+ ![Manage Item](/screenshots/Picture3.png)
 
 
 # More about project
